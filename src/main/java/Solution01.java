@@ -11,7 +11,7 @@ return input in a string
 
 import java.util.Scanner;
 
-public class ex01 {
+public class Solution01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("What is your name? ");
